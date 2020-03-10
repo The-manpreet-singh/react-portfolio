@@ -55,12 +55,12 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I know the skills HTML5, CSS3, JAVASCRIPT, JQUERY, BOOTSTRAP, REACT.JS",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
+        "school":"Rajasthan Technical University",
+        "degree":"B.tech in Computer Science",
+        "graduated":"June 2017",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
@@ -86,32 +86,32 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
         "name":"HTML5",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"CSS3",
+        "level":"75%"
       },
       {
-        "name":"MongoDB",
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"JAVASCRIPT",
         "level":"80%"
+      },
+      {
+        "name":"BOOTSTRAP",
+        "level":"80%"
+      },
+      {
+        "name":"JQUERY",
+        "level":"80%"
+      },
+      {
+        "name":"MYSQL",
+        "level":"70%"
       }
     ]
   },
