@@ -62,27 +62,21 @@
         "school":"Rajasthan Technical University",
         "degree":"B.tech in Computer Science",
         "graduated":"June 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"I completed my graduation (B.Tech in C.S) in 2017 with 69.10%."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"RBSE",
+        "degree":"12th",
+        "graduated":"June 2012",
+        "description":"I completed 12th (science-maths) in 2012 with 75.20%."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"EUONUS IT",
+        "title":"Web developer",
+        "years":"Feb 2018 - Present",
+        "description":"1-Developed project concepts and maintain optimal workflow and develop large, complex design projects for corporate clients. 2-Completed detailed programming and development tasks for front end public and internal websites as well as challenging back-end server code. 3-Carried out quality assurance tests to discover errors and optimize usability"
       }
     ],
     "skills":[
@@ -112,7 +106,7 @@
       },
       {
         "name":"MYSQL",
-        "level":"70%"
+        "level":"80%"
       }
     ]
   },
