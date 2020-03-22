@@ -113,34 +113,34 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"St marys convent School",
+        "category":"School web portal its a dynamic web page",
+        "image":"school1.png",
+        "url":"http://stmarysconvent.in/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Radiance, Academy of design",
+        "category":"Academy of fashion design, Boutique Management, Jewellery Designing",
+        "image":"radjaipur1.png",
+        "url":"http://radjaipur.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Parishkar College",
+        "category":"Website I built for a College that manage 5 more colleges",
+        "image":"parishkar1.png",
+        "url":"https://parishkar.org/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Tk brothers films",
+        "category":"Web page for movies and studio",
+        "image":"tkbrother1.png",
+        "url":"https://tkbrothersfilms.com/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"FestVithika",
+        "category":"college event web page",
+        "image":"fest1.png",
+        "url":"festveethika.com"
       }
     ]
   },
