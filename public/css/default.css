@@ -313,8 +313,7 @@ ol ol, ol ul { margin: 6px 0 6px 30px; }
 ul ul li, ul ol li,
 ol ol li, ol ul li { margin-bottom: 6px; }
 li { line-height: 18px; margin-bottom: 12px; }
-ul.large li { }
-li p { }
+
 
 /* ---------------------------------------------------------------------
 /*  Stats Tab Markup
@@ -444,7 +443,7 @@ dd { margin: 0 0 0 20px; }
    background-color: #E6E8EB;
 	color: #A9ADB2;
 }
-.pagination .prev, .pagination .next {}
+
 
 /*  5. Images  --------------------------------------------------------- */
 
