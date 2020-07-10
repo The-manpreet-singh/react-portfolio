@@ -1,4 +1,4 @@
-# react-portfolio
+# React-Portfolio
 
 I created areact-portfolio app. I'm going to use React, router, jquery, bootstrap html5, css3 .
 
