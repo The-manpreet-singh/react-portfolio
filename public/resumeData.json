@@ -2,10 +2,10 @@
   "main": {
     "name":"Manpreet Singh",
     "occupation":"Web Developer && front end Developer",
-    "description":"I have specialized in HTML5, CSS3, JavaScript, React.js, Bootstrap, JQuery, PHP. I am developing websites optimized with clean code. As well as I know javascript framework React.js",
+    "description":"I have specialized in HTML5, CSS3, JavaScript, React.js, Redux, hooks, material-ui, Bootstrap, JQuery, PHP. I am developing websites optimized with clean code. As well as I know javascript framework React.js",
     "image":"profilepic.jpg",
     "pdf":"Resume.pdf",
-    "bio":"I am Manpreet, Web Developer, and passionate about Web Development. I have specialized in HTML5, CSS3, JavaScript, React.js, Bootstrap, JQuery, Github, PHP and SQL(MYSQL). I am developing websites optimized with clean code. I always try to learn something new. I am always with a cup of tea, fun with friends.I hardly believe the word Stay hungry, Stay Foolish.",
+    "bio":"I am Manpreet, Web Developer, and passionate about Web Development. I have specialized in HTML5, CSS3, JavaScript, React.js, Redux, hooks, material-ui, Bootstrap, JQuery, Github, PHP and SQL(MYSQL). I am developing websites optimized with clean code. I always try to learn something new. I am always with a cup of tea, fun with friends.I hardly believe the word Stay hungry, Stay Foolish.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "manpreet.singh10196@gmail.com",
     "phone": "9024834210",
@@ -45,7 +45,7 @@
       },
       {
         "name":"github",
-        "url":"https://github.com/manpreet-singh10196",
+        "url":"https://github.com/The-manpreet-singh",
         "className":"fa fa-github"
       },
       {
@@ -56,7 +56,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"I know the skills HTML5, CSS3, JAVASCRIPT, JQUERY, BOOTSTRAP, REACT.JS",
+    "skillmessage":"I know the skills HTML5, CSS3, JAVASCRIPT, JQUERY, BOOTSTRAP, REACT.JS, Redux, hooks, material-ui",
     "education":[
       {
         "school":"Rajasthan Technical University",
@@ -75,7 +75,7 @@
       {
         "company":"EUONUS IT",
         "title":"Web developer",
-        "years":"Feb 2018 - Present",
+        "years":"July 2017 - Present",
         "description":"1-Developed project concepts and maintain optimal workflow and develop large, complex design projects for corporate clients. 2-Completed detailed programming and development tasks for front end public and internal websites as well as challenging back-end server code. 3-Carried out quality assurance tests to discover errors and optimize usability"
       }
     ],
